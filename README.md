@@ -3,10 +3,10 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/toufiqulhaquemamun/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Toufiqul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://facebook.com/toufiqulhaquemamun">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="toufiqulhaque | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -42,7 +42,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java         27 hrs 53 mins  █████████████████████▒░░░   84.89 % 
+Java         21 hrs 53 mins  █████████████████████▒░░░   84.89 % 
+Kotlin       15 hrs 54 mins  ████████████░░░░░░░░░░░░░   52.92 %
 Dart         3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 CSharp       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
