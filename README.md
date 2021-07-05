@@ -21,7 +21,7 @@ Hi, I'm [Toufiqul Haque](https://www.linkedin.com/in/toufiqulhaquemamun/), a pas
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Toufiqulhaquemamun/Toufiqulhaquemamun/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:mamun.jishan@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
