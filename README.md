@@ -44,7 +44,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```text
 Java         21 hrs 53 mins  █████████████████████▒░░░   84.89 % 
 Kotlin       15 hrs 54 mins  ████████████░░░░░░░░░░░░░   52.92 %
-Dart         3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Dart         10 hrs 54 mins  █████████░░░░░░░░░░░░░░░░   35.92 % 
 CSharp       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
